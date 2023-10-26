@@ -12,3 +12,5 @@ class C extends A,B {
         obj.msg();
 }
 }
+
+// Error sebelum dicompile

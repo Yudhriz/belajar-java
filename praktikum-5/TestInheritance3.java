@@ -3,7 +3,7 @@ class Animal {
         System.out.println("eating");
     }
 }
-class Dog extends Animal {
+final class Dog extends Animal {
     void bark() {
         System.out.println("barking");
     }
@@ -20,3 +20,9 @@ class TestInheritance3 {
         c.eat();
     }    
 }
+
+// Hasilnya akan seperti dibawah ini
+// [Running] cd "e:\belajar-java\" && javac TestInheritance3.java && java TestInheritance3
+// meowing
+// eating
+// Class Dog tidak akan bisa kepanggil karena ada final class
