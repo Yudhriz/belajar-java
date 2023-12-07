@@ -1,3 +1,4 @@
+.gitignore
 praktikum-8/ABC.class
 praktikum-8/DeepCopyExample.class
 praktikum-8/ShallowCopyExample.class
@@ -17,3 +18,13 @@ praktikum-6/GFG2.class
 praktikum-6/Helper.class
 praktikum-6/Honda3.class
 praktikum-6/vehicle.class
+praktikum-10/Honda4.class
+praktikum-10/Bike.class
+praktikum-10/BuilderDemo.class
+praktikum-10/CD.class
+praktikum-10/CDBuilder.class
+praktikum-10/Sony.class
+praktikum-10/Samsung.class
+praktikum-10/Packing.class
+praktikum-10/Company.class
+praktikum-10/CDType.class
