@@ -10,4 +10,10 @@ public class CDBuilder {
         cds.addItem(new Samsung());
         return cds;
     }
+
+    public CDType buildPolytronCD() {
+        CDType cds = new CDType();
+        cds.addItem(new Polytron());
+        return cds;
+    }
 }// End of the CDBuilder class.
