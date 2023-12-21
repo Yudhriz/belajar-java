@@ -14,6 +14,7 @@ public class ProxyInternet implements Internet
 		bannedSites.add("def.com"); 
 		bannedSites.add("ijk.com"); 
 		bannedSites.add("lnm.com"); 
+		bannedSites.add("nurulfikri.ac.id"); 
 	} 
 	
 	@Override
