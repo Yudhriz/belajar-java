@@ -34,3 +34,12 @@ praktikum-11/Adapter Pattern/CreditCard.class
 praktikum-11/Adapter Pattern/BankDetails.class
 praktikum-11/Adapter Pattern/BankCustomer.class
 praktikum-11/Adapter Pattern/AdapterPatternDemo.class
+praktikum-12/proxy/implementation-1/Image.class
+praktikum-12/proxy/implementation-1/ProxyImage.class
+praktikum-12/proxy/implementation-1/ProxyPatternDemo.class
+praktikum-12/proxy/implementation-1/RealImage.class
+praktikum-12/proxy/implementation-2/Client.class
+praktikum-12/proxy/implementation-2/Internet.class
+praktikum-12/proxy/implementation-2/ProxyInternet.class
+praktikum-12/proxy/implementation-2/RealInternet.class
+Proxy
